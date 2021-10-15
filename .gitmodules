@@ -1,0 +1,3 @@
+[submodule "nbgitconvert"]
+	path = include/nbgitconvert
+	url = https://github.com/adamhajari/nbgitconvert.git
