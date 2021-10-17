@@ -1,6 +1,6 @@
 # Experimenting with Mediawiki API and network graphs
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/UncleCJ/pywikibot-gephi-experiments/blob/dev3/pywikibot2gephi.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UncleCJ/pywikibot-gephi-experiments/dev3?filepath=pywikibot2gephi.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/UncleCJ/pywikibot-gephi-experiments/blob/main/pywikibot2gephi.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/UncleCJ/pywikibot-gephi-experiments/main?filepath=pywikibot2gephi.ipynb)
 
 This README is included in the [pywikibot2gephi.ipynb Jupyter notebook](pywikibot2gephi.ipynb), you might as well head right over there.
 
