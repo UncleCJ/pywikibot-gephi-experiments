@@ -1,0 +1,5 @@
+ipykernel>=6.4.1
+matplotlib>=3.4.3
+pywikibot>=6.6.1
+wikitextparser>=0.47.5
+python-igraph>=0.9.6
