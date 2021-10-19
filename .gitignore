@@ -134,3 +134,4 @@ pywikibot.lwp
 throttle.ctrl
 user-config.py
 *.pickle
+.DS_Store
